@@ -2,6 +2,7 @@ package edu.ucsd.cse110.dogegotchi.doge;
 
 import android.content.Context;
 import android.graphics.Bitmap;
+import android.widget.TableRow;
 
 import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableMap;
